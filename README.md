@@ -3,7 +3,7 @@ Quick tutorial on how to setup CI/CD with GitHub Actions for your Unity project
 
 Here I'm going to outline a set of super simple steps to get started with GitHub Actions for your Unity build.
 
-Head over to .github/workflows. You will see 2 .yml files there.
+Head over to .github/workflows. You will see two .yml files there.
 The first is `activation.yml`.
 All actions use a Unity installation, which needs to be activated. `activation.yml` comes straight from game.ci's docs, you're free to modify it as you deem fit.
 
